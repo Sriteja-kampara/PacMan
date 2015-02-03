@@ -1,5 +1,5 @@
 # PacMan
-This project has been done as part of CSE546, Artificial Intelligence in Fall 2013
+This project has been done with Oleksii Starov as part of CSE546, Artificial Intelligence in Fall 2013
 
 The PacMan project has originated from UC Berkeley's introductory artificial intelligence course, CS 188 
   http://ai.berkeley.edu/project_overview.html
